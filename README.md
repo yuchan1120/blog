@@ -1,24 +1,7 @@
-# README
+# blog
+Rails APIモードとReactでアプリを作る練習のため、このアプリを作成しました。
+<br>
+フロントエンド → [blog_front](https://github.com/yuchan1120/blog_front)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##  参考サイト
+- [Rails APIモードとReact Hooksを使ってToDoリストを作る](https://zenn.dev/nicoryo/articles/20201214tech)
